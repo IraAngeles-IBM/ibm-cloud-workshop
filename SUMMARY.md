@@ -1,0 +1,14 @@
+# Table of contents
+
+* [Lab 0 - Register for IBM Cloud](README.md)
+* [Lab 1 - Answer the Call for Code](lab-1.md)
+* [Lab 2 - Forest Fire Detection Using Visual Recognition](lab-2-fire-alarm-using-watson-visual-recognition.md)
+* [Lab 3 - Bot Asset Exchange](lab-4-bot-asset-exchange.md)
+* [Lab 4 - Model Asset Exchange](lab-5-model-asset-exchange.md)
+* [Lab 5 - Identify cities from space](lab-5-identify-cities-from-space.md)
+* [Lab 6 - Tent Purchase Predictor](lab-6-tent-purchase-predictor.md)
+* [Lab 7 - Use a client to run a web-based terminal for a docker/kubernetes workshop](lab-7-use-a-client-to-run-a-web-based-terminal-for-a-docker-kubernetes-workshop.md)
+* [Lab 8 - Discover customer sentiment from product reviews](lab-8-discover-customer-sentiment-from-product-reviews.md)
+* [Lab 9 - Create a banking chatbot](lab-9-create-a-banking-chatbot.md)
+* [Optional : Kubernetes Course and Certification](https://cognitiveclass.ai/courses/kubernetes-course/)
+
