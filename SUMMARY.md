@@ -10,5 +10,6 @@
 * [Lab 7 - Use a client to run a web-based terminal for a docker/kubernetes workshop](lab-7-use-a-client-to-run-a-web-based-terminal-for-a-docker-kubernetes-workshop.md)
 * [Lab 8 - Discover customer sentiment from product reviews](lab-8-discover-customer-sentiment-from-product-reviews.md)
 * [Lab 9 - Create a banking chatbot](lab-9-create-a-banking-chatbot.md)
+* [Lab 10 - Uncover insights from Facebook data with PixieDust and Watson services](lab-10-uncover-insights-from-facebook-data-with-pixiedust-and-watson-services.md)
 * [Optional : Kubernetes Course and Certification](https://cognitiveclass.ai/courses/kubernetes-course/)
 
