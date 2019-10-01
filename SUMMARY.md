@@ -12,5 +12,6 @@
 * [Lab 9 - Create a banking chatbot](lab-9-create-a-banking-chatbot.md)
 * [Lab 10 - Uncover insights from Facebook data with PixieDust and Watson services](lab-10-uncover-insights-from-facebook-data-with-pixiedust-and-watson-services.md)
 * [Optional : Kubernetes Course and Certification](https://cognitiveclass.ai/courses/kubernetes-course/)
-* [Introduction - Watson Knowledge Studio](https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-wks_overview_full)
+* [IBM Watson™ Knowledge Studio Introduction](https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-wks_overview_full)
+* [IBM Watson™ Discovery Introduction](https://cloud.ibm.com/docs/services/discovery?topic=discovery-about)
 
