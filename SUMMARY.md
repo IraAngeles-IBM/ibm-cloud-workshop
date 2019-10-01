@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Lab 0 - Register for IBM Cloud](README.md)
+* [Lab 0 - Register for IBM Cloud \(Call for Code\)](README.md)
 * [Lab 1 - Answer the Call for Code](lab-1.md)
 * [Lab 2 - Forest Fire Detection Using Visual Recognition](lab-2-fire-alarm-using-watson-visual-recognition.md)
 * [Lab 3 - Bot Asset Exchange](lab-4-bot-asset-exchange.md)
