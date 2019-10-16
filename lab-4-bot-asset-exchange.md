@@ -1,6 +1,6 @@
 # Lab 3 - Bot Asset Exchange
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2819%29.png)
 
 ### Click on the following link to "Get a Bot": [https://developer.ibm.com/code/exchanges/bots/](https://developer.ibm.com/code/exchanges/bots/)
 
