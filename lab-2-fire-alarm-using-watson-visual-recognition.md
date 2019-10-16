@@ -40,7 +40,7 @@ This project is a how-to guide on using Watson Visual Recognition service to ana
 
 ![Create a Visual Recognition service.](.gitbook/assets/image%20%2816%29.png)
 
-![After the Visual Recognition Service created, we shall create a new Service Credential.](.gitbook/assets/image%20%2828%29.png)
+![After the Visual Recognition Service created, we shall create a new Service Credential.](.gitbook/assets/image%20%2829%29.png)
 
 ![&#xE4B;&#xE35;Leave everything by default and click &apos;Add&apos;.](.gitbook/assets/image%20%281%29.png)
 
