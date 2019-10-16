@@ -23,5 +23,6 @@
 
 ## IBM TJBot
 
+* [TJBot](ibm-tjbot/tjbot.md)
 * [Teaching TJBot to speak](ibm-tjbot/teaching-tjbot-to-speak.md)
 
