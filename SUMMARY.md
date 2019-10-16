@@ -16,3 +16,12 @@
 * [IBM Watson™ Knowledge Studio Introduction](https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-wks_overview_full)
 * [IBM Watson™ Discovery Introduction](https://cloud.ibm.com/docs/services/discovery?topic=discovery-about)
 
+## Internet of Things \(IoT\)
+
+* [Introduction to node-RED](internet-of-things-iot/introduction-to-node-red.md)
+* [Node-RED: AI - Text to Speech](internet-of-things-iot/node-red-ai-text-to-speech.md)
+
+## IBM TJBot
+
+* [Teaching TJBot to speak](ibm-tjbot/teaching-tjbot-to-speak.md)
+
