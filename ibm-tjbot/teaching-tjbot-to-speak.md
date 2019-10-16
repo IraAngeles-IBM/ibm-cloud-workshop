@@ -8,7 +8,7 @@ description: Node-RED example code utilising IBM AI Text to Speech Service
 
 ### Create the following Flow
 
-![Text to Speech Flow](../.gitbook/assets/image%20%2815%29.png)
+![Text to Speech Flow](../.gitbook/assets/image%20%2816%29.png)
 
 
 
