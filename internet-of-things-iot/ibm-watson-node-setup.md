@@ -1,6 +1,6 @@
 # Adding Nodes
 
-### Example: Adding IBM Watson Node
+### Add IBM Watson Node
 
 1. Select **Manage palette**
 
