@@ -21,6 +21,7 @@
 * [Introduction to node-RED](internet-of-things-iot/introduction-to-node-red.md)
 * [IBM Watson Node Setup](internet-of-things-iot/ibm-watson-node-setup.md)
 * [Lab 1: AI - Text to Speech](internet-of-things-iot/node-red-ai-text-to-speech.md)
+* [TJBot-Node-RED examples](https://github.com/johnwalicki/TJBot-Node-RED)
 
 ## IBM TJBot
 
