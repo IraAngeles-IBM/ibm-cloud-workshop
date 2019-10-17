@@ -1,5 +1,5 @@
 ---
-description: Explore IBM AI Text to speech using Node-RED
+description: Explore IBM AI Text to speech service using Node-RED
 ---
 
 # Lab 1: AI - Text to Speech
