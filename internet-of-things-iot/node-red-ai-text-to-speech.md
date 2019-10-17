@@ -10,7 +10,7 @@ description: Explore IBM AI Text to speech service using Node-RED
 
 ![](../.gitbook/assets/image%20%2816%29.png)
 
-3. Select the Text to speech node. Fill out the following details and un-select **Use Default Service Endpoint \(b\)**
+3. Select the **Text to speech** node. Fill out the following details and un-select **Use Default Service Endpoint \(b\)**
 
 ![](../.gitbook/assets/image%20%2824%29.png)
 

@@ -1,2 +1,0 @@
-# TJBot Setup
-
