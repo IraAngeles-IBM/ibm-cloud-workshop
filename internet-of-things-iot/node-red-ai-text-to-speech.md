@@ -18,7 +18,7 @@ description: Explore IBM AI Text to speech using Node-RED
 
 ![IBM Cloud AI Text to speech Service](../.gitbook/assets/image%20%281%29.png)
 
-5. **Deploy** trigger the inject node and increase volume
+5. **Deploy,** **trigger** the inject node and increase volume
 
 
 
