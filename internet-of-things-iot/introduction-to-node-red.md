@@ -6,7 +6,7 @@ description: >-
 
 # Introduction to node-RED
 
-![Node-RED V1.0](../.gitbook/assets/image%20%288%29.png)
+![Node-RED V1.0](../.gitbook/assets/image%20%289%29.png)
 
 #### Flow-based Programming <a id="flow-based-programming"></a>
 
