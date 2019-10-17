@@ -4,11 +4,11 @@
 
 2. Create the following Flow:
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 3. Fill out the following details and un-select **Use Default Service Endpoint**
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 4. Deploy trigger the inject node and increase volume
 

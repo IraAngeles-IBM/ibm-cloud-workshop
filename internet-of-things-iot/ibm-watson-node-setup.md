@@ -1,6 +1,6 @@
-# IBM Watson Node Setup
+# Adding Nodes
 
-### Add IBM Watson Node
+### Example: Adding IBM Watson Node
 
 1. Select **Manage palette**
 
