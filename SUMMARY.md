@@ -29,5 +29,5 @@
 
 * [TJBot](ibm-tjbot/tjbot.md)
 * [TJBot Setup](ibm-tjbot/tjbot-setup.md)
-* [Teaching TJBot to speak](ibm-tjbot/teaching-tjbot-to-speak.md)
+* [Lab 1: Teaching TJBot to speak](ibm-tjbot/teaching-tjbot-to-speak.md)
 

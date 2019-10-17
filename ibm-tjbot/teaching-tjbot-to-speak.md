@@ -2,7 +2,7 @@
 description: Node-RED example code utilising IBM AI Text to Speech Service
 ---
 
-# Teaching TJBot to speak
+# Lab 1: Teaching TJBot to speak
 
 ![TJBot Text to Speech](../.gitbook/assets/image%20%283%29.png)
 
