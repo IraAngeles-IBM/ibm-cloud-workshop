@@ -8,7 +8,7 @@
 
 3. Fill out the following details and un-select **Use Default Service Endpoint**
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 4. Deploy trigger the inject node and increase volume
 
