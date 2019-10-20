@@ -22,6 +22,7 @@
 * [Getting Node-RED](internet-of-things-iot/getting-node-red.md)
 * [Adding Nodes](internet-of-things-iot/ibm-watson-node-setup.md)
 * [Lab 1: AI - Text to Speech](internet-of-things-iot/node-red-ai-text-to-speech.md)
+* [Acknowledgement](internet-of-things-iot/acknoledgement.md)
 * [TJBot-Node-RED examples](https://github.com/johnwalicki/TJBot-Node-RED)
 * [Node-RED](https://nodered.org/)
 
