@@ -35,4 +35,5 @@
 
 * [Business blockchain concepts](ibm-blockchain-platform/untitled.md)
 * [IBM Blockchain 101](https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/#start)
+* [Blockchain Code Patterns](https://developer.ibm.com/patterns/category/blockchain/)
 
