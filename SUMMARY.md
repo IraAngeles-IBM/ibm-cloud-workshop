@@ -31,3 +31,7 @@
 * [TJBot](ibm-tjbot/tjbot.md)
 * [Lab 1: Teaching TJBot to speak](ibm-tjbot/teaching-tjbot-to-speak.md)
 
+## IBM Blockchain Platform
+
+* [Untitled](ibm-blockchain-platform/untitled.md)
+

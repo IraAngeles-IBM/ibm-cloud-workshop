@@ -46,8 +46,8 @@ This code pattern showed how you can use the IBM Watson Node.js SDK to include c
 4. Cloud deployment, please edit the manifest.yml to as the following \(Note that, the name of the application can be any, but it has to be unqiue across cloud foundry app\).
 5. Cloud deployment, please edit package.json for the node.js app engine version number to "node": "8.9.4"
 
-{% code-tabs %}
-{% code-tabs-item title="Manifest.yml" %}
+{% tabs %}
+{% tab title="Manifest.yml" %}
 ```text
 ---
 applications:
@@ -58,17 +58,17 @@ applications:
   random-route: false
   buildpack: sdk-for-nodejs
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
-{% code-tabs %}
-{% code-tabs-item title="package.json" %}
+{% tabs %}
+{% tab title="package.json" %}
 ```text
   "repository": "github:IBM/watson-banking-chatbot",
   "engines": {
     "node": "8.9.4"
   },
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
