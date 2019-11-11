@@ -33,5 +33,6 @@
 
 ## IBM Blockchain Platform
 
-* [Untitled](ibm-blockchain-platform/untitled.md)
+* [Business blockchain concepts](ibm-blockchain-platform/untitled.md)
+* [IBM Blockchain 101](https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/#start)
 
