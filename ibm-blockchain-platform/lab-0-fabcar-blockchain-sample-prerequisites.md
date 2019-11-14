@@ -1,5 +1,7 @@
 ---
-description: P
+description: >-
+  Individual IBM Cloud account will be used in the workshop and need to be
+  upgraded by entering credit card.
 ---
 
 # Lab 0: FabCar Blockchain Sample - Prerequisites
