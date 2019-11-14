@@ -37,7 +37,7 @@
 * [Lab 0: FabCar Blockchain Sample - Prerequisites](ibm-blockchain-platform/lab-0-fabcar-blockchain-sample-prerequisites.md)
 * [Lab 1: FabCar Blockchain Sample - Overview](ibm-blockchain-platform/lab-1-fabcar-blockchain-sample.md)
 * [Lab 2: FabCar Blockchain Sample - Setup](ibm-blockchain-platform/lab-2-fabcar-blockchain-sample-setup.md)
-* [Lab 3: FabCar Blockchain Sample - Create IBM Cloud services](ibm-blockchain-platform/lab-3-fabcar-blockchain-sample-create-ibm-cloud-services.md)
+* [Lab 3: FabCar Blockchain Sample - Create IBM Cloud Kubernetes services](ibm-blockchain-platform/lab-3-fabcar-blockchain-sample-create-ibm-cloud-services.md)
 * [IBM Blockchain 101](https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/#start)
 * [Blockchain Code Patterns](https://developer.ibm.com/patterns/category/blockchain/)
 
