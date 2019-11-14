@@ -1,3 +1,7 @@
+---
+description: 'Clone the repo, Package the smart contract (VS code)'
+---
+
 # Lab 2: FabCar Blockchain Sample - Setup
 
 ### Clone the repo
@@ -9,7 +13,7 @@ git clone https://github.com/IBM/fabcar-blockchain-sample.git
 cd fabcar-blockchain-sample
 ```
 
-### Package the smart contract
+### Package the smart contract \(VS code\)
 
 We will use the IBM Blockchain Platform extension to package the Fabcar smart contract.
 
