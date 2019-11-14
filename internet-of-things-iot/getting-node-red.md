@@ -2,14 +2,14 @@
 
 ## **Run locally**
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 * [Getting started](https://nodered.org/docs/getting-started/)
 * [Docker](https://nodered.org/docs/platforms/docker)
 
 ## **On a device**
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 * [Raspberry Pi](https://nodered.org/docs/hardware/raspberrypi)
 * [BeagleBone Black](https://nodered.org/docs/hardware/beagleboneblack)
@@ -20,7 +20,7 @@
 
 \*\*\*\*
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 * [IBM Cloud](https://nodered.org/docs/platforms/bluemix)
 * [SenseTecnic FRED](https://fred.sensetecnic.com/)

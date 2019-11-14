@@ -8,7 +8,7 @@ description: >-
 
 [TJBot](http://www.research.ibm.com/tjbot/) is a kit developed at IBM Research to help people get started with their Watson AI service. It comes with a friendly little robot that you build yourself, a Raspberry Pi 3, and all the parts you need to make your robot wave, blink, talk, and listen.
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 Kit contents:
 
@@ -24,7 +24,7 @@ Kit contents:
 
 ### Assembled TJBot
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 
 

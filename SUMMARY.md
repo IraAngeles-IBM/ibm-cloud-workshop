@@ -31,10 +31,11 @@
 * [TJBot](ibm-tjbot/tjbot.md)
 * [Lab 1: Teaching TJBot to speak](ibm-tjbot/teaching-tjbot-to-speak.md)
 
-## IBM Blockchain Platform
+## IBM Blockchain Platform V2 Workshop <a id="ibm-blockchain-platform"></a>
 
 * [Business blockchain concepts](ibm-blockchain-platform/untitled.md)
+* [Lab 0: FabCar Blockchain Sample - Prerequisites](ibm-blockchain-platform/lab-0-fabcar-blockchain-sample-prerequisites.md)
+* [Lab 1: FabCar Blockchain Sample - Overview](ibm-blockchain-platform/lab-1-fabcar-blockchain-sample.md)
 * [IBM Blockchain 101](https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/#start)
 * [Blockchain Code Patterns](https://developer.ibm.com/patterns/category/blockchain/)
-* [Lab 1: FabCar Blockchain Sample](lab-1-fabcar-blockchain-sample.md)
 
