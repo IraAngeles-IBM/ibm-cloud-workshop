@@ -1,3 +1,7 @@
+---
+description: 'Architecture flow, components, technologies, steps'
+---
+
 # Lab 2: FabCar Blockchain Sample - Overview
 
 This code pattern demonstrates setting up a network on the IBM Blockchain Platform and deploying the Fabcar smart contract on the network. Next, we setup our application to interact with the network including identities to submit transactions on the smart contract. The application is setup with a Node.js server using the Fabric Node SDK to process requests to the network, and an Angular client to bring up a web interface.
