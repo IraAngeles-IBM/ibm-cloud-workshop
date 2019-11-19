@@ -15,5 +15,14 @@ description: Create and join channel
   * Select identity under the Channel creator organization section as `Org1 Admin`.
   * Click **Create channel**.
 
+![Create Channel](../../.gitbook/assets/sc15.gif)
 
+* **Join your peer to the channel**
+  * Click **Join channel** to launch the side panels.
+  * Select your `Orderer` and click **Next**.
+  * Enter the name of the channel you just created. `mychannel` and click **Next**.
+  * Select which peers you want to join the channel, click `Peer Org1` .
+  * Click **Join Channel**.
+
+![Join Channel](../../.gitbook/assets/sc16.gif)
 
