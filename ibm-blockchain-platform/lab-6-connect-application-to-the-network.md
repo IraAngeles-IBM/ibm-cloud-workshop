@@ -20,3 +20,27 @@
 
 ![Application Admin](../.gitbook/assets/sc20.gif)
 
+* **Update application connection**
+  * Copy the connection profile you downloaded into [server folder](https://github.com/IBM/fabcar-blockchain-sample/blob/master/web-app/server)
+  * Update the [config.json](https://github.com/IBM/fabcar-blockchain-sample/blob/master/web-app/server/config.json) file with:
+    * The connection json file name you downloaded.
+    * The **enroll id** and **enroll secret** for your app admin, which we earlier provided as `app-admin` and `app-adminpw`.
+    * The orgMSP ID, which we provided as `org1msp`.
+    * The caName, which can be found in your connection json file under "organization" -&gt; "org1msp" -&gt; certificateAuthorities". This would be like an IP address and a port.
+    * The username you would like to register.
+    * Update gateway discovery to `{ enabled: true, asLocalhost: false }` to connect to IBP.
+
+> the current default setup is to connect to a local fabric instance from VS Code
+
+```text
+{
+    "connection_file": "mychannel_fabcar_profile.json",
+    "appAdmin": "app-admin",
+    "appAdminSecret": "app-adminpw",
+    "orgMSPID": "org1msp",
+    "caName": "184.173.1.18:31317",
+    "userName": "user1",
+    "gatewayDiscovery": { "enabled": true, "asLocalhost": false }
+}
+```
+
