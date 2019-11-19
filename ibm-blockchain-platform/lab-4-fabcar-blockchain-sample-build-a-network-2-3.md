@@ -37,3 +37,11 @@
 
 ![](../.gitbook/assets/sc13.gif)
 
+* **Add organization as Consortium Member on the orderer to transact**
+  * Navigate to the **Nodes** tab, and click on the **Orderer** that we created.
+  * Under **Consortium Members**, click **Add organization**.
+  * From the drop-down list, select `Org1 MSP`, as this is the MSP that represents the peer's organization org1.
+  * Click **Submit**.
+
+![](../.gitbook/assets/sc14.gif)
+
