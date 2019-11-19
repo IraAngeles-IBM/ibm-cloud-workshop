@@ -7,7 +7,7 @@
   * Download the connection profile by scrolling down and clicking **Download Connection Profile**. This will download the connection json which we will use soon to establish connection.
   * You can click **Close** once the download completes.
 
-![Connect with SDK](.gitbook/assets/sc19.gif)
+![Connect with SDK](../.gitbook/assets/sc19.gif)
 
 * **Create an application admin**
   * Go to the **Nodes** tab on the left bar, and under **Certificate Authorities**, choose your organization CA, **Org1 CA**.
@@ -18,5 +18,5 @@
   * Under **Attributes**, click on **Add attribute**. Give attribute as `hf.Registrar.Roles` = `*`. This will allow this identity to act as registrar and issues identities for our app. Click **Add-attribute**.
   * Click **Register**.
 
-![Application Admin](.gitbook/assets/sc20.gif)
+![Application Admin](../.gitbook/assets/sc20.gif)
 
