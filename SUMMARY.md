@@ -39,8 +39,9 @@
 * [Lab 2: FabCar Blockchain Sample - Overview](ibm-blockchain-platform/lab-1-fabcar-blockchain-sample.md)
 * [Lab 3: FabCar Blockchain Sample - Setup](ibm-blockchain-platform/lab-2-fabcar-blockchain-sample-setup.md)
 * [Lab 3: FabCar Blockchain Sample - IBM Blockchain Platform Creation](ibm-blockchain-platform/lab-3-fabcar-blockchain-sample-ibm-blockchain-platform-creation.md)
-* [Lab 4: FabCar Blockchain Sample - Build a Network \(1/3\)](ibm-blockchain-platform/lab-4-fabcar-blockchain-sample-build-network.md)
-* [Lab 5: FabCar Blockchain Sample - Build a Network \(2/3\)](ibm-blockchain-platform/lab-4-fabcar-blockchain-sample-build-a-network-2-3.md)
+* [Lab 4a: FabCar Blockchain Sample - Build a Network \(1/3\)](ibm-blockchain-platform/lab-4-fabcar-blockchain-sample-build-network.md)
+* [Lab 4b: FabCar Blockchain Sample - Build a Network \(2/3\)](ibm-blockchain-platform/lab-4-fabcar-blockchain-sample-build-a-network-2-3.md)
+* [Lab 4c: FabCar Blockchain Sample - Build a Network \(3/3\)](ibm-blockchain-platform/lab-4c-fabcar-blockchain-sample-build-a-network-3-3.md)
 * [IBM Blockchain 101](https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/#start)
 * [Blockchain Code Patterns](https://developer.ibm.com/patterns/category/blockchain/)
 

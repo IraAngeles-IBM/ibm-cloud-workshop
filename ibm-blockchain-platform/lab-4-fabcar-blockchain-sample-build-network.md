@@ -1,4 +1,4 @@
-# Lab 4: FabCar Blockchain Sample - Build a Network \(1/3\)
+# Lab 4a: FabCar Blockchain Sample - Build a Network \(1/3\)
 
 ## Structure of the Network
 
