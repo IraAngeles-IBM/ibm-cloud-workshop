@@ -6,7 +6,7 @@
   * Click on **Add file** and find your packaged smart contract.
   * Once the contract is uploaded, click **Install**.
 
-![Install Smart Contract](../.gitbook/assets/sc17.gif)
+![Install Smart Contract](../../.gitbook/assets/sc17.gif)
 
 * **Instantiate smart contract**
   * On the smart contracts tab, find the smart contract from the list installed on your peers and click **Instantiate** from the overflow menu on the right side of the row.
@@ -15,7 +15,7 @@
   * Give **Function name** of `initLedger` and leave **Arguments** blank.
   * Click **Instantiate**.
 
-![Instantiate smart contract](../.gitbook/assets/sc18.gif)
+![Instantiate smart contract](../../.gitbook/assets/sc18.gif)
 
 
 
