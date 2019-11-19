@@ -40,7 +40,7 @@ Successfully registered and enrolled admin user user1 and imported it into the w
 From the `server` directory, start the server.
 
 ```text
-npm star
+npm start
 ```
 
 **Start the web client**
