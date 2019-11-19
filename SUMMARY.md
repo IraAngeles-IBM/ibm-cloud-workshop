@@ -46,6 +46,7 @@
   * [Lab 5a: FabCar Blockchain Sample - Setup](ibm-blockchain-platform/lab-5-fabcar-blockchain-sample/lab-2-fabcar-blockchain-sample-setup.md)
   * [Lab 5b: Deploy FabCar Smart Contract on the network](ibm-blockchain-platform/lab-5-fabcar-blockchain-sample/lab-5b-deploy-fabcar-smart-contract-on-the-network.md)
 * [Lab 6: Connect application to the network](ibm-blockchain-platform/lab-6-connect-application-to-the-network.md)
+* [Lab 7: Run the application](ibm-blockchain-platform/lab-7-run-the-application.md)
 * [IBM Blockchain 101](https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/#start)
 * [Blockchain Code Patterns](https://developer.ibm.com/patterns/category/blockchain/)
 
