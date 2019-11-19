@@ -2,7 +2,7 @@
 description: 'Clone the repo, Package the smart contract (VS code)'
 ---
 
-# Lab 3: FabCar Blockchain Sample - Setup
+# Lab 5a: FabCar Blockchain Sample - Setup
 
 ### Clone the repo
 

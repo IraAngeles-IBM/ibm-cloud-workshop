@@ -8,14 +8,14 @@
   * Give it a unique **Display name** of `Orderer CA`.
   * Specify an **Admin ID** of `admin` and **Admin Secret** of `adminpw`.
 
-![](../.gitbook/assets/sc10.gif)
+![](../../.gitbook/assets/sc10.gif)
 
 * **Use your CA to register orderer and orderer admin identities**
   * In the **Nodes** tab, select the **Orderer CA** Certificate Authority that we created.
   * First, we will register an admin for our organization. Click on the **Register User** button. Give an **Enroll ID** of `ordereradmin`, and **Enroll Secret** of `ordereradminpw`. Click **Next**. Set the **Type** for this identity as `client` and select from any of the affiliated organizations from the drop-down list. We will leave the **Maximum enrollments** and **Add Attributes** fields blank.
   * We will repeat the process to create an identity of the orderer. Click on the **Register User** button. Give an **Enroll ID** of `orderer1`, and **Enroll Secret** of `orderer1pw`. Click **Next**. Set the **Type** for this identity as `peer` and select from any of the affiliated organizations from the drop-down list. We will leave the **Maximum enrollments** and **Add Attributes** fields blank.
 
-![](../.gitbook/assets/sc11.gif)
+![](../../.gitbook/assets/sc11.gif)
 
 * **Create the orderer organization MSP definition**
   * Navigate to the **Organizations** tab in the left navigation and click **Create MSP definition**.
@@ -24,7 +24,7 @@
   * Give the **Enroll ID** and **Enroll secret** for your organization admin, `ordereradmin` and `ordereradminpw`. Then, give the **Identity name**, `Orderer Admin`.
   * Click the **Generate** button to enroll this identity as the admin of your organization and export the identity to the wallet. Click **Export** to export the admin certificates to your file system. Finally click **Create MSP definition**.
 
-![](../.gitbook/assets/sc12.gif)
+![](../../.gitbook/assets/sc12.gif)
 
 * **Create an orderer**
   * On the **Nodes** page, click **Add orderering service**.
@@ -35,7 +35,7 @@
   * The last side panel will ask to **Associate an identity** and make it the admin of your peer. Select your peer admin identity `Orderer Admin`.
   * Review the summary and click **Submit**.
 
-![](../.gitbook/assets/sc13.gif)
+![](../../.gitbook/assets/sc13.gif)
 
 * **Add organization as Consortium Member on the orderer to transact**
   * Navigate to the **Nodes** tab, and click on the **Orderer** that we created.
@@ -43,5 +43,5 @@
   * From the drop-down list, select `Org1 MSP`, as this is the MSP that represents the peer's organization org1.
   * Click **Submit**.
 
-![](../.gitbook/assets/sc14.gif)
+![](../../.gitbook/assets/sc14.gif)
 
