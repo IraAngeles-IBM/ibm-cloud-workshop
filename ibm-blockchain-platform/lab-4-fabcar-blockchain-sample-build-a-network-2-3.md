@@ -1,4 +1,4 @@
-# Lab 4: FabCar Blockchain Sample - Build a Network \(2/3\)
+# Lab 5: FabCar Blockchain Sample - Build a Network \(2/3\)
 
 ### Create the node that orders transactions
 
