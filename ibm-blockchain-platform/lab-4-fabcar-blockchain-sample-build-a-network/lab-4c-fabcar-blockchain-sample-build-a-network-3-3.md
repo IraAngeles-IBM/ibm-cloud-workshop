@@ -15,3 +15,5 @@ description: Create and join channel
   * Select identity under the Channel creator organization section as `Org1 Admin`.
   * Click **Create channel**.
 
+
+
