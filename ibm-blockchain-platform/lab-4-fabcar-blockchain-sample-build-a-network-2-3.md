@@ -35,3 +35,5 @@
   * The last side panel will ask to **Associate an identity** and make it the admin of your peer. Select your peer admin identity `Orderer Admin`.
   * Review the summary and click **Submit**.
 
+![](../.gitbook/assets/sc13.gif)
+
