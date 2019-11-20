@@ -60,11 +60,13 @@ npm start
 
 You can find the app running at [http://localhost:4200/](http://localhost:4200/)
 
-![](../.gitbook/assets/sc21.gif)
+![Farcar application](../.gitbook/assets/sc21.gif)
 
 You can go to the IBM Blockchain Platform console to monitor your users and get information on your channel including the blocks added.
 
-![](../.gitbook/assets/sc22.gif)
+#### Sample server console log:
+
+![Application backend server console log](../.gitbook/assets/image%20%2816%29.png)
 
 ### Troubleshooting
 

@@ -8,11 +8,11 @@ description: Node-RED example code utilising IBM AI Text to Speech Service
 
 1. Create the following Flow
 
-![Text to Speech Flow](../.gitbook/assets/image%20%2819%29.png)
+![Text to Speech Flow](../.gitbook/assets/image%20%2820%29.png)
 
 2. Select the **Text to speech** node. Fill out the following details and un-select **Use Default Service Endpoint \(b\)**
 
-![IBM AI Text to speech service](../.gitbook/assets/image%20%2827%29.png)
+![IBM AI Text to speech service](../.gitbook/assets/image%20%2828%29.png)
 
 3. Get the above details from **IBM Cloud AI Text to speech** Service
 

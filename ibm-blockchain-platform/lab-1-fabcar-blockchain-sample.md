@@ -15,7 +15,7 @@ When the reader has completed this code pattern, they will understand how to:
 
 ## Architecture flow
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 
 
