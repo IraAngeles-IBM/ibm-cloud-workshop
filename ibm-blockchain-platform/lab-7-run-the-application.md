@@ -64,7 +64,7 @@ You can find the app running at [http://localhost:4200/](http://localhost:4200/)
 
 You can go to the IBM Blockchain Platform console to monitor your users and get information on your channel including the blocks added.
 
-![](https://github.com/IBM/fabcar-blockchain-sample/raw/master/docs/doc-gifs/channel-blocks.gif)
+![](../.gitbook/assets/sc22.gif)
 
 ### Troubleshooting
 
