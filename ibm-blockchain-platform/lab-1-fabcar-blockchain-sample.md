@@ -42,13 +42,13 @@ The developer uses the IBM Blockchain Platform Extension for VS Code to:
 
 #### Steps
 
-> To run a local network, you can find steps [here](https://github.com/IBM/fabcar-blockchain-sample/blob/master/docs/run-local.md)
+> To run a local network, you can find steps here
 
-1. [Clone the repo](https://github.com/IBM/fabcar-blockchain-sample/blob/master/README.md#1-clone-the-repo)
-2. [Package the smart contract](https://github.com/IBM/fabcar-blockchain-sample/blob/master/README.md#2-package-the-smart-contract)
-3. [Create IBM Cloud services](https://github.com/IBM/fabcar-blockchain-sample/blob/master/README.md#3-create-ibm-cloud-services)
-4. [Build a network](https://github.com/IBM/fabcar-blockchain-sample/blob/master/README.md#4-build-a-network)
-5. [Deploy FabCar Smart Contract on the network](https://github.com/IBM/fabcar-blockchain-sample/blob/master/README.md#5-deploy-fabcar-smart-contract-on-the-network)
-6. [Connect application to the network](https://github.com/IBM/fabcar-blockchain-sample/blob/master/README.md#6-connect-application-to-the-network)
-7. [Run the application](https://github.com/IBM/fabcar-blockchain-sample/blob/master/README.md#7-run-the-application)
+1. Clone the repo
+2. Package the smart contract
+3. Create IBM Cloud services
+4. Build a network
+5. Deploy FabCar Smart Contract on the network
+6. Connect application to the network
+7. Run the application
 
