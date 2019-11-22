@@ -1,17 +1,8 @@
 ---
-description: 'Clone the repo, Package the smart contract (VS code)'
+description: Package the smart contract (VS code)
 ---
 
-# Lab 5a: FabCar Blockchain Sample - Setup
-
-### Clone the repo
-
-Clone this repository in a folder your choice:
-
-```text
-git clone https://github.com/IBM/fabcar-blockchain-sample.git
-cd fabcar-blockchain-sample
-```
+# Lab 5a: FabCar Blockchain Sample - VS code
 
 ### Package the smart contract \(VS code\)
 
