@@ -6,7 +6,7 @@ description: >-
 
 # Lab 3: FabCar Blockchain Sample - IBM Blockchain Platform Creation
 
-* Create the [IBM Blockchain Platform](https://console.bluemix.net/catalog/services/blockchain/) service on the IBM Cloud. You can find the service in the `Catalog`, and give a name.
+* Create the [IBM Blockchain Platform](https://console.bluemix.net/catalog/services/blockchain/) service on the IBM Cloud \(Region - Dallas\). You can find the service in the `Catalog`, and give a name.
 
 ![](../.gitbook/assets/sc1.gif)
 
