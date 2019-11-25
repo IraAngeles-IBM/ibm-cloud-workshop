@@ -11,7 +11,7 @@
 ![](../../.gitbook/assets/sc5.gif)
 
 * **Use your CA to register identities**
-  * Select the **Org 1 CA** Certificate Authority that we created.
+  * In **Nodes** Select the **Org 1 CA** Certificate Authority that we created.
   * First, we will register an admin for our organization "org1". Click on the **Register User** button. Give an **Enroll ID** of `org1admin`, and **Enroll Secret** of `org1adminpw`. Click **Next**. Set the **Type** for this identity as `client` and select from any of the affiliated organizations from the drop-down list. We will leave the **Maximum enrollments** and **Add Attributes** fields blank.
   * We will repeat the process to create an identity of the peer. Click on the **Register User** button. Give an **Enroll ID** of `peer1`, and **Enroll Secret** of `peer1pw`. Click **Next**. Set the **Type** for this identity as `peer` and select from any of the affiliated organizations from the drop-down list. We will leave the **Maximum enrollments** and **Add Attributes** fields blank.
 
