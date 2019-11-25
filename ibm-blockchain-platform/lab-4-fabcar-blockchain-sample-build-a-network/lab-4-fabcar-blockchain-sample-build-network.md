@@ -5,7 +5,7 @@
 * **Create your peer organization CA**
   * Click **Add Certificate Authority**.
   * Click **IBM Cloud** under **Create Certificate Authority** and **Next**.
-  * Give it a **Display name** of `Org1 CA`.
+  * Give it a **CA display name** of `Org1 CA`.
   * Specify an **Admin ID** of `admin` and **Admin Secret** of `adminpw`.
 
 ![](../../.gitbook/assets/sc5.gif)
