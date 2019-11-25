@@ -33,7 +33,7 @@
   * On the next screen, select `Orderer CA` as your **Certificate Authority**. Then, give the **Enroll ID** and **Enroll secret** for the peer identity that you created for your orderer, `orderer1`, and `orderer1pw`. Then, select the **Administrator Certificate \(from MSP\)**, `Orderer MSP`, from the drop-down list and click **Next**.
   * Give the **TLS Enroll ID**, `admin`, and **TLS Enroll secret**, `adminpw`, the same values are the Enroll ID and Enroll secret that you gave when creating the CA. Leave the **TLS CSR hostname** blank.
   * The last side panel will ask to **Associate an identity** and make it the admin of your peer. Select your peer admin identity `Orderer Admin`.
-  * Review the summary and click **Submit**.
+  * Review the summary and click **Add organization**.
 
 ![](../../.gitbook/assets/sc13.gif)
 
@@ -41,7 +41,7 @@
   * Navigate to the **Nodes** tab, and click on the **Orderer** that we created.
   * Under **Consortium Members**, click **Add organization**.
   * From the drop-down list, select `Org1 MSP`, as this is the MSP that represents the peer's organization org1.
-  * Click **Submit**.
+  * Click **Add organization**.
 
 ![](../../.gitbook/assets/sc14.gif)
 
