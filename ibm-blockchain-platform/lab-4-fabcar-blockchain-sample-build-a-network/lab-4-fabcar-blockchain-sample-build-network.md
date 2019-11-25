@@ -32,7 +32,7 @@
 
 * **Create a peer**
   * On the **Nodes** page, click **Add peer**.
-  * Click **IBM Cloud** under Create a new peer and **Next**.
+  * Click **IBM Cloud peer** under Create a new peer and **Next**.
   * Give your peer a **Display name** of `Peer Org1`.
   * On the next screen, select `Org1 CA` as your **Certificate Authority**. Then, give the **Enroll ID** and **Enroll secret** for the peer identity that you created for your peer, `peer1`, and `peer1pw`. Then, select the **Administrator Certificate \(from MSP\)**, `Org1 MSP`, from the drop-down list and click **Next**.
   * Give the **TLS Enroll ID**, `admin`, and **TLS Enroll secret**, `adminpw`, the same values are the Enroll ID and Enroll secret that you gave when creating the CA. Leave the **TLS CSR hostname** blank.
