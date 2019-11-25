@@ -3,7 +3,7 @@
 ### Create the node that orders transactions
 
 * **Create your orderer organization CA**
-  * Click **Add Certificate Authority**.
+  * In **Nodes** Click **Add Certificate Authority**.
   * Click **IBM Cloud** under **Create Certificate Authority** and **Next**.
   * Give it a unique **Display name** of `Orderer CA`.
   * Specify an **Admin ID** of `admin` and **Admin Secret** of `adminpw`.
