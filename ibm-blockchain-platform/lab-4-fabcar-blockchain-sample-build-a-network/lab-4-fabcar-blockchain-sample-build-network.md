@@ -1,5 +1,9 @@
 # Lab 4a: FabCar Blockchain Sample - Build a Network \(1/3\)
 
+{% hint style="info" %}
+The identity is not stored in your console or managed by IBM. It is only stored in local browser storage. If you change browsers, you will need to import this identity into your Wallet to be able to operate the CA. Click **Export identity** to download the identity and keys.
+{% endhint %}
+
 ### Create your organization and your entry point to your blockchain
 
 * **Create your peer organization CA**
